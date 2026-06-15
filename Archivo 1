@@ -1,3 +1,5 @@
-https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif
-https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif
-https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif
+<h1 id="mensaje"></h1>
+
+<script>
+document.getElementById("mensaje").textContent = "Hola mundo";
+</script>
