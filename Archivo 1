@@ -1,5 +1,11 @@
-<h1 id="mensaje"></h1>
-
-<script>
-document.getElementById("mensaje").textContent = "Hola mundo";
-</script>
+function Hearth()  }
+  this.x = Math.random() * ww;
+  this.y = Math.random() * wh;
+  this.opacity =math.random() *0.5 +0.5;
+  this.vel = }
+    x: (math.random() -0.5) * 4,
+    y: (Math.random() -0.5) * 4,
+};
+thistarjetScale = Match.random() * 0.15 + 0.02;
+this.scale = this.tarjetScale * math.random();
+}
